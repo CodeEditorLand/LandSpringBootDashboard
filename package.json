@@ -616,7 +616,7 @@
 	],
 	"dependencies": {
 		"@pivotal-tools/jvm-launch-utils": "0.0.23",
-		"chart.js": "4.4.8",
+		"chart.js": "4.4.9",
 		"chartjs": "0.3.24",
 		"chartjs-adapter-moment": "1.0.1",
 		"get-port": "7.1.0",
@@ -629,7 +629,7 @@
 		"@playform/build": "0.2.3",
 		"@types/glob": "8.1.0",
 		"@types/lodash": "4.17.16",
-		"@types/node": "22.14.0",
+		"@types/node": "22.14.1",
 		"@types/uuid": "10.0.0",
 		"json": "11.0.0",
 		"ts-loader": "9.5.2"
